@@ -77,4 +77,4 @@ ___
 
 | Stats | Top Languages |
 | :---: | :-----------: |
-| ![Bishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=earthperson-001&hide=stars&count_private=true&show_icons=true&theme=transparent)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earthperson-001&langs_count=5&layout=compact&theme=transparent) |
+| ![Bishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=earthperson-001&hide=stars&count_private=true&show_icons=true&theme=transparent)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earthperson-001&langs_count=6&layout=compact&theme=transparent) |
